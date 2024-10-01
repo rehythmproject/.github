@@ -1,4 +1,4 @@
-<div align="center"><em>리:듬 Project</em></div>
+<div align="center"><em>re:듬 Project</em></div>
 
 <br/><br/><br/>
 
