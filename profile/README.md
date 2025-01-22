@@ -7,7 +7,6 @@
 
 
 |[@yujinverse](https://github.com/yujinverse)|[@lioba00700](https://github.com/lioba00700)|[@JouEunPark](https://github.com/JouEunPark)|[@3suji3](https://github.com/3suji3)|[@sakuj123](https://github.com/sakuj123)|
-|Backend|frontend|AI|frontend|Backend|
 <br/><br/><br/>
 
 
