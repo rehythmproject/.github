@@ -6,12 +6,37 @@
 
 
 
-|[@yujinverse](https://github.com/yujinverse)|[@lioba00700](https://github.com/lioba00700)|[@JouEunPark](https://github.com/JouEunPark)|[@3suji3](https://github.com/3suji3)|[@sakuj123](https://github.com/sakuj123)|
-<br/><br/><br/>
-
-
-
-### 커밋 메시지 및 내용의 관리를 위한 규칙
-#### 1. [깃모지](https://gitmoji.dev)를 사용해서 커밋메시지 작성하기 (ex. ✨ Added auth service)
-#### 2. commit & push 전 꼭 pull 하기!
-#### 3. 최대한 PR(Pull Request) 활용해보기!
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yujinverse">
+        <img src="https://github.com/yujinverse.png" width="100" height="100" /><br/>
+        <strong>@yujinverse</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lioba00700">
+        <img src="https://github.com/lioba00700.png" width="100" height="100" /><br/>
+        <strong>@lioba00700</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JouEunPark">
+        <img src="https://github.com/JouEunPark.png" width="100" height="100" /><br/>
+        <strong>@JouEunPark</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/3suji3">
+        <img src="https://github.com/3suji3.png" width="100" height="100" /><br/>
+        <strong>@3suji3</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sakuj123">
+        <img src="https://github.com/sakuj123.png" width="100" height="100" /><br/>
+        <strong>@sakuj123</strong>
+      </a>
+    </td>
+  </tr>
+</table>
